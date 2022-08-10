@@ -5,9 +5,9 @@ Hay👋‹, ingin melanjutkan pembayaran?
 
 💌 *Pembayaran*
 💳 Via: Gopay
-📞 Nomor: 088215689772
-👤 A/n: Fangz
-📦 Mitra: Fangz BOT
+📞 Nomor: +62 812-7367-7810
+👤 A/n: PANDA TWO BOT 
+📦 Mitra: PANDA TWO BOT
 💰 Metode pembayaran: Online ( ~Cod~ )
 
 📣 *Beli*
