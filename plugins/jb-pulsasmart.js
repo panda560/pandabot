@@ -4,19 +4,19 @@ let text = `${htki} PULSA ${htka}
 👋‘‹, ingin melanjutkan pembayaran?
 
 💌 *Pembayaran*
-💳 Via: Pulsa Smartfren 
-📞 Nomor: 088215689772
-👤 A/n: Fangz
-📦 Mitra: Fangz BOT
+💳 Via: Pulsa Xl
+📞 Nomor: +6281959293465
+👤 A/n: ANGGA ( saya / Faiz (adek saya ) )
+📦 Mitra: PANDA TWO BOT
 💰 Metode pembayaran: Online ( ~Cod~ )
 
 📣 *Beli*
 
 Apk TokoBot: https://app.bukaolshop.com/toko/tokobot
 
-Apk FangzApp:https://web.jagel.id/store/fangzapp
+Apk FangzApp: https://telegra.ph/file/45f4f6d79b997c5e94bb6.jpg
 
-Toko Website:https://toko.ly/TokoBot   (Non apk)
+Toko Website:   (Non apk)
 
 ✏️ _Informasi Pembayaran_
 
