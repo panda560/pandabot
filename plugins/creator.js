@@ -21,18 +21,18 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-*💌 Nama* : Fangz
-*✉️ Nama RL* : FangzBOT
+*💌 Nama* : FAMOUS 
+*✉️ Nama RL* : PANDA TWO BOT
 *♂️ Gender* : Laki - laki
 *🕋 Agama* : Islam
-*⏰ Tanggal lahir* : 25 oktober 2007
-*🎨 Umur* : 15
-*🧮 Kelas* : 9
-*🧩 Hobby* : Nonton henta*, main game, Recode script
-*💬 Sifat* : Baik, hode, softboy, tydack ramah, g*y
-*🗺️ Tinggal* : Indonesia, jawa, bogor
+*⏰ Tanggal lahir* : 01 JANUARI 2001
+*🎨 Umur* : 22
+*🧮 Kelas* : KULIAH 
+*🧩 Hobby* : KERJA PROYEKTOR, SUKA LIHATIN DIA SENYUM DI GALERI >3, RECODE 
+*💬 Sifat* : BAIK KADANG JAHAT, PENDIAM, SUKA GAJELAS DI LUAR RUMAH, COOL BOY
+*🗺️ Tinggal* : INDONESIA, MEDAN, PASURUAN 
 *❤️ Suka* : warnah pink & hitam, trap, waifu wangy, kucing
-*💔 Benci* : anak alay, autis, anak epep, sok asik
+*💔 Benci* : SKSK, autis, anak PUBG, GAJE 
 
 *- - sᴋɪʟʟs: - -* 
 > JavaScript [70.7%]
@@ -48,8 +48,8 @@ let teksbio = `${htki} *BIODATA* ${htka}
 🐈 *Github:* ${sgh}
 🥏 *Whatsapp* wa.me/${nomorown}
 🌐 *Discord:* Soon
-🌏 *Website:* https://fangzbot.websites.co.in/
-🎶 *Tiktok:* tiktok.com/@fangzjb
+🌏 *Website:* https://pandatwo.websites.co.in/
+🎶 *Tiktok:* tiktok.com/@pandatwo
 
 `
   let teks = ' '
